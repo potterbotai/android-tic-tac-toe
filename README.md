@@ -1,5 +1,7 @@
 # Android Tic-Tac-Toe
 
+[![Android CI](https://github.com/potterbotai/android-tic-tac-toe/actions/workflows/android.yml/badge.svg)](https://github.com/potterbotai/android-tic-tac-toe/actions/workflows/android.yml)
+
 A clean Jetpack Compose sample project that implements a simple Tic-Tac-Toe game with state management, score tracking, and a light/dark theme toggle. The goal is to keep the project small enough for code reviews while demonstrating best practices (unidirectional data flow, previewable UI, and separation between UI state + game logic).
 
 ## Features
